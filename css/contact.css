@@ -2,7 +2,35 @@
 	line-height:2em;
 }
 span{
-	font-family: 'Helvetica', sans-serif;
-	font-weight: 200;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 400;
 	font-size: 1em;
+}
+/* unvisited link */
+a:link {
+    color: #33312e;
+    outline: none;
+    border: none;
+}
+
+/* visited link */
+a:visited {
+    color: #33312e;
+    outline: none;
+    border: none;
+}
+
+/* mouse over link */
+a:hover {
+    color: #33312e;
+    outline: none;
+    border: none;
+    text-decoration: underline;
+}
+
+/* selected link */
+a:active {
+    color: #33312e;
+    outline: none;
+    border: none;
 }
