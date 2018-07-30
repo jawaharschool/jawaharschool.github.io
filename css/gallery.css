@@ -1,0 +1,42 @@
+.thumb img{
+	box-shadow: 2px 2px 10px;
+	cursor: pointer;
+    width: 90%;
+    height: 200px;
+}
+/* unvisited link */
+a:link {
+    color: #ffffff00;
+    outline: none;
+    border: none;
+}
+
+/* visited link */
+a:visited {
+    color: #ffffff00;
+    outline: none;
+    border: none;
+}
+
+/* mouse over link */
+a:hover {
+    color: #ffffff00;
+    outline: none;
+    border: none;
+}
+
+/* selected link */
+a:active {
+    color: #ffffff00;
+    outline: none;
+    border: none;
+}
+p{
+	text-align: center;
+}
+p{
+	text-align: center;
+}
+.modal-body{
+	line-height: 2em;
+}
