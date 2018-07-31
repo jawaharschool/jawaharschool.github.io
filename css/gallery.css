@@ -40,3 +40,9 @@ p{
 .modal-body{
 	line-height: 2em;
 }
+@media only screen and (max-width: 600px){
+    .col-md-4{
+        margin-bottom: 10px;
+        text-align: center;
+    }
+}
